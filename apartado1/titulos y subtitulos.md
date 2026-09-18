@@ -10,7 +10,7 @@ Texto
 
 ![foto](../foto.jpeg)
 
-## SUBTITULOS
+## SUBTITULOS 1
 
 # LISTA
 
@@ -20,7 +20,7 @@ Texto
 - cuatro
 - cinco
 
-## SUBTITULOS
+## SUBTITULOS 1
 
 [Enlace](https://www.aeducar.es/)
 
