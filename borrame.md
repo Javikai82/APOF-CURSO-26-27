@@ -10,7 +10,6 @@ Bienvenidos y bienvenidas a mi nueva presentación. Mi nombre es Javier Parra He
 
 **Música** Soy una persona a quien le gusta escuchar música al realizar actividades banales, como por ejemplo las tareas domésticas, cocinar o hacer deporte. En cuanto a qué clase de música me gusta, me da igual, considero que cuando una canción te transmite algo bueno, debería estar en tu playlist.  
 
-![cpu](/home/javier.parra@iesangelsanzbriz.net/APOF-CURSO-26-27/foto.jpeg)
+![cpu](foto.jpeg)
 
 [pccomponentes](https://www.pccomponentes.com/?srsltid=AU7gw4WcbrK4GUyMF321EXFk6OcU0YZTJctuywFgDRL18dNue2skaXok)
-
