@@ -4,7 +4,7 @@ Bienvenidos y bienvenidas a mi nueva presentación. Mi nombre es Javier Parra He
 
 **Deporte:** A lo largo de mi vida he acumulado mucha experiencia tanto personal como profesional en el deporte, actualmente imparto clases dirigidas en un gimnasio como instructor. A los cinco años comencé a practicar karate y a partir de los 10 empecé con el karate de competición. Unos años más tarde también comencé a practicar atletismo popular. Aunque esos son los deportes que han dirigido mi vida en el mundo deportivo, también he practicado otros, tonificación, natación, ciclismo. 
 
-**Cine** Me gusta ver películas en el cine independientemente del género, comedia, terror, ciencia ficción. 
+**Cine** Me gusta ver películas en el cine independientemente del género, comedia, terror, ciencia ficción. En casa también tengo una smart tv con home cinema para disfrutar de ese sonido envolvente y calida de video 4k. 
 
 **Videojuegos** Desde niño me han gustado las consolas/ordenadores, jugando cuando tengo tiempo libre a juegos de supervivencia o simuladores. Últimamente desde que tengo un pc-gaming y comencé a estudiar el grado medio de Sistemas Microinformáticos y Redes, lo que hago es con ayuda de la IA, meterme en algunos archivos para cambiar ciertos parámetros y modificar de esa manera la jugabilidad. 
 
